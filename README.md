@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tell me to lock tf in on slack, I need to code chat
 
 <!--
 **froppii/Froppii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
